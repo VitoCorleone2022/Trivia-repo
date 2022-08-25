@@ -37,3 +37,12 @@
     background-color:#AA008F;
     
 }
+
+#score {
+    display: none;
+}
+
+
+#game {
+    display: none;
+}
